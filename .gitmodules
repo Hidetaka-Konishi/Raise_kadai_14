@@ -1,3 +1,6 @@
 [submodule "kadai/Raise_kadai_1"]
 	path = kadai/Raise_kadai_1
 	url = https://github.com/Hidetaka-Konishi/Raise_kadai_1.git
+[submodule "kadai/Raise_AWS_1"]
+	path = kadai/Raise_AWS_1
+	url = https://github.com/Hidetaka-Konishi/Raise_AWS_1.git
