@@ -2,7 +2,7 @@
 
 |講座|課題内容|学んだことのメモ＆課題完成|
 |---|---|---|
-|**第1回**|ルートユーザーをMFAで保護、BillingをIAM ユーザーで閲覧、AdministratorAccess権限のIAM ユーザーを作成、Cloud9を作成して HelloWorldを出力|[学んだことのメモ](.kadai/Raise_kadai_1)|
+|**第1回**|ルートユーザーをMFAで保護、BillingをIAM ユーザーで閲覧、AdministratorAccess権限のIAM ユーザーを作成、Cloud9を作成して HelloWorldを出力|[学んだことのメモ](./Raise_kadai_1/tree/1b24181722b0056219ae29870223550410ec8628)|
 |**第2回**|Gitの設定、GitHubでプルリクエストの発行||
 |**第3回**|Cloud9でWebアプリをデプロイ||
 |**第4回**|VPC・EC2・RDSの作成、EC2からRDSへ接続||
