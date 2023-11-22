@@ -1,6 +1,6 @@
 # 自動化処理を加えたAWS構成図
 
-![ブラウザ接続](./image/auto_aws_model.png)
+![ブラウザ接続](./image/aws_auto_model.png)
 
 # リポジトリのREADME
 以下のURLから参照してください。

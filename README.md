@@ -14,5 +14,5 @@
 |**第10回**|CloudFormationでVPC・EC2・RDS・ALB・S3を作成|[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_10)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_10)|
 |**第11回**|ServerSpecでテストコードの実行|[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_11)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_11)|
 |**第12回**|CloudFormationテンプレートの内容に問題がないかCircleCIを使ってチェック|[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_12)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_12)|
-|**第13回**|CircleCIとServerSpecとAnsibleを使ってインフラ環境のデプロイからテストコードの実行までをすべて自動化させる |[学んだことのメモ]()|[課題完成]()|
-|**第14回**|第5回のAWS構成図に第13回の自動化処理を追加、第1回~第14回までの内容をまとめたリポジトリのREADMEを作成|[学んだことのメモ]()|[課題完成]()|
+|**第13回**|CircleCIとServerSpecとAnsibleを使ってインフラ環境のデプロイからテストコードの実行までをすべて自動化させる |https://github.com/Hidetaka-Konishi/Raise_AWS_13|https://github.com/Hidetaka-Konishi/Raise_kadai_13|
+|**第14回**|第5回のAWS構成図に第13回の自動化処理を追加、第1回~第14回までの内容をまとめたリポジトリのREADMEを作成||[課題完成]()|

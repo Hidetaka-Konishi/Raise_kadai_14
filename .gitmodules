@@ -55,3 +55,9 @@
 [submodule "memo/Raise_AWS_12"]
 	path = memo/Raise_AWS_12
 	url = https://github.com/Hidetaka-Konishi/Raise_AWS_12.git
+[submodule "kadai/Raise_kadai_13"]
+	path = kadai/Raise_kadai_13
+	url = https://github.com/Hidetaka-Konishi/Raise_kadai_13.git
+[submodule "memo/Raise_AWS_13"]
+	path = memo/Raise_AWS_13
+	url = https://github.com/Hidetaka-Konishi/Raise_AWS_13.git
