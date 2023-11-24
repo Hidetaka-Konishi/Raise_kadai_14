@@ -1,6 +1,6 @@
 # 自動化処理を加えたAWS構成図
 
-![ブラウザ接続](./image/auto_model.png)
+![ブラウザ接続](./image/circlei_ansible_serverspec.png)
 
 # リポジトリのREADME
 以下のURLから参照してください。
