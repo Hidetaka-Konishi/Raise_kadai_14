@@ -1,5 +1,7 @@
 # AWSフルコースのまとめ
 
+※一番見ていただきたい部分は第13回の「課題完成」で記載したコードとなっています。
+
 |講座|課題内容|学んだことのメモ|課題完成|
 |---|---|---|---|
 |**第1回**|ルートユーザーをMFAで保護、BillingをIAM ユーザーで閲覧、AdministratorAccess権限のIAM ユーザーを作成、Cloud9を作成して HelloWorldを出力|[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_1)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_1)|
@@ -16,3 +18,13 @@
 |**第12回**|CloudFormationテンプレートの内容に問題がないかCircleCIを使ってチェック|[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_12)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_12)|
 |**第13回**|CircleCIとServerSpecとAnsibleを使ってインフラ環境のデプロイからテストコードの実行までをすべて自動化させる |[学んだことのメモ](https://github.com/Hidetaka-Konishi/Raise_AWS_13)|[課題完成](https://github.com/Hidetaka-Konishi/Raise_kadai_13)|
 |**第14回**|第5回のAWS構成図に第13回の自動化処理を追加、第1回~第14回までの内容をまとめたリポジトリのREADMEを作成||[課題完成]()|
+
+# 作成したWebアプリ
+プログラミング学習の際に作成したWebアプリのリポジトリです。
+
+https://github.com/Hidetaka-Konishi/hukusyu_when.git
+
+# 学習記録
+AWSのハンズオンを開始したときからの学習記録です。
+
+https://app.build-up.info/enterprises/bEDI6AXZ/portfolio/bwM5AjMgoTd

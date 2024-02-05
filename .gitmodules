@@ -61,3 +61,6 @@
 [submodule "memo/Raise_AWS_13"]
 	path = memo/Raise_AWS_13
 	url = https://github.com/Hidetaka-Konishi/Raise_AWS_13.git
+[submodule "app"]
+	path = app
+	url = https://github.com/Hidetaka-Konishi/hukusyu_when.git
